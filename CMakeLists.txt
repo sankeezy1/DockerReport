@@ -3,7 +3,7 @@
 # CMake files for the DockerReport project
 
 # Can be run by any version of CMake >= this
-cmake_minimum_required(VERSION 3.19)
+cmake_minimum_required(VERSION 3.18)
 
 # project info
 project(DockerReport)
